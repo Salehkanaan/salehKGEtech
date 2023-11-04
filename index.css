@@ -1,0 +1,16 @@
+.nav{
+    background-color: rgb(22, 22, 158);
+    display: flex;
+    
+}
+.nav span{
+    color: orange;
+}
+.nav a{
+    
+    color: gold;
+    text-decoration: none;
+}
+.nav1{
+    margin-left: 50%;
+}
